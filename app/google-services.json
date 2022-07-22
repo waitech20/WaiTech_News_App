@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420569848212",
+    "project_id": "waitech",
+    "storage_bucket": "waitech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420569848212:android:bd997b2eb90fc637411781",
+        "android_client_info": {
+          "package_name": "com.sst.waitech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420569848212-6u0pvioc4pjmle7til6i9s981l0novk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv3CbT22oQ0bJCNDVM-3_eZk5ygVbwdKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420569848212-6u0pvioc4pjmle7til6i9s981l0novk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
